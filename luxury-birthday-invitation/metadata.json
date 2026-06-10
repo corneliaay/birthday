@@ -1,6 +1,0 @@
-{
-  "name": "Luxury Birthday Invitation",
-  "description": "An elegant, responsive birthday invitation with a luxury editorial aesthetic, pastel colors, countdown, and active RSVP.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
